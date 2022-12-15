@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #333;
+    color: #aaa
+}
+.link {
+    text-decoration: none;
+    color: aquamarine;
+    font-weight: bold;
+}
+
+ol, ul{
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+    color: #aa0
+}
+
+h2 {
+    color: #f55;
+}
+
+img{
+    border: 5px solid rosybrown;
+    border-radius: 15px;
+}
